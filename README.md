@@ -1,4 +1,4 @@
-### Visualize via react & canvas.js
+# Visualize via react & canvas.js
 
 Navigate to 'react-canvasjs-chart-samples' (extracted folder) in Command Prompt
 Run 'npm install' to install all npm dependencies
